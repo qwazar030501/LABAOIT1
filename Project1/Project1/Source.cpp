@@ -15,10 +15,6 @@ int main() {
     scanf("%d", &n);
     int res = fibonacci(n);
     printf("(%d) = %d\n", n, res);
-#include<stdio.h>
+}
 
-    void main() {
-        printf("hello world");
-        //jfdfjdfj
-        //ajsdjsad
-    }
+
