@@ -16,6 +16,7 @@ int main() {
     int res = fibonacci(n);
     printf("(%d) = %d\n", n, res);
     printf("hello world");
+    printf("hello world");
 }
 
 
