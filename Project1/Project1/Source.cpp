@@ -12,5 +12,6 @@ void main()
     printf("  '-.___.-'\n");
     printf("hello world");
     printf("isdjfisd");
+    printf("heoki");
 }
 
