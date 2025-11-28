@@ -17,6 +17,7 @@ int main() {
     printf("(%d) = %d\n", n, res);
     printf("sf");
     printf("sf");
+    printf("sf");
 }
 
 
