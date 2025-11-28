@@ -19,6 +19,13 @@ int main() {
     printf("sf");
     printf("sf");
     printf("sf");
+    printf("sf2");
+    printf("sf2");
+    printf("sf2");
+    printf("sf3");
+    printf("sf3");
+    printf("sf3");
+
 }
 
 
