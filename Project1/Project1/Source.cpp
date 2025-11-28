@@ -10,5 +10,8 @@ void main()
     printf("|     ^      |\n");
     printf(" \\ /___/    /\n");
     printf("  '-.___.-'\n");
+    printf("hello world");
+    printf("isdjfisd");
+    printf("heoki");
 }
 
