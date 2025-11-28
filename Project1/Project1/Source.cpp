@@ -15,6 +15,7 @@ int main() {
     scanf("%d", &n);
     int res = fibonacci(n);
     printf("(%d) = %d\n", n, res);
+    printf("sf");
 }
 
 
