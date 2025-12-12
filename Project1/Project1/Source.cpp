@@ -26,6 +26,8 @@ int main() {
     printf("sf3");
     printf("sf3");
     printf("sf4");
+    printf("sf4");
+    printf("sf4");
 
 }
 
